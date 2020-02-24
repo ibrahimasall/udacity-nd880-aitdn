@@ -6,3 +6,6 @@ browse, test, copy any section of the repository.
 If you would like to know more about how to create a **README** file, you can check out [Lesson 1: Writing README's]
 (https://classroom.udacity.com/courses/ud777). Also, if you want to preview your Markdown files, [Dillinger]
 (https://dillinger.io/) is a great online resource for you to do so.
+
+## Style Guide
+This repository follows [Udacity Style Guide](http://udacity.github.io/git-styleguide/)
